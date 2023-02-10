@@ -18,3 +18,6 @@ def test1():
 
 def test2():
     check(2)
+
+def test3():
+    check(3)
