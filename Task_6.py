@@ -8,7 +8,6 @@ class Solution:
                     array[j] = array[j - k]
                     j -= k
                 array[j] = key
-            return array
 
         def hir(arr):
             i = size = len(arr)
